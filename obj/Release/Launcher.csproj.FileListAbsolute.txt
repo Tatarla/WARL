@@ -1,0 +1,45 @@
+C:\Users\wardwalf\Desktop\projectwar server\ProjectWAR\bin\Release\Launcher\NLog.config
+C:\Users\wardwalf\Desktop\projectwar server\ProjectWAR\bin\Release\Launcher\NLog.xsd
+C:\Users\wardwalf\Desktop\projectwar server\ProjectWAR\bin\Release\Launcher\Launcher.exe.config
+C:\Users\wardwalf\Desktop\projectwar server\ProjectWAR\bin\Release\Launcher\Launcher.exe
+C:\Users\wardwalf\Desktop\projectwar server\ProjectWAR\bin\Release\Launcher\Launcher.pdb
+C:\Users\wardwalf\Desktop\projectwar server\ProjectWAR\Launcher\obj\Release\Launcher.csproj.AssemblyReference.cache
+C:\Users\wardwalf\Desktop\projectwar server\ProjectWAR\Launcher\obj\Release\Launcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\wardwalf\Desktop\projectwar server\ProjectWAR\Launcher\obj\Release\Launcher.exe.config
+C:\Users\wardwalf\Desktop\projectwar server\ProjectWAR\Launcher\obj\Release\Launcher.ApocLauncher.resources
+C:\Users\wardwalf\Desktop\projectwar server\ProjectWAR\Launcher\obj\Release\Launcher.Properties.Resources.resources
+C:\Users\wardwalf\Desktop\projectwar server\ProjectWAR\Launcher\obj\Release\Launcher.csproj.GenerateResource.cache
+C:\Users\wardwalf\Desktop\projectwar server\ProjectWAR\Launcher\obj\Release\Launcher.csproj.CoreCompileInputs.cache
+C:\Users\wardwalf\Desktop\projectwar server\ProjectWAR\Launcher\obj\Release\Launcher.csproj.CopyComplete
+C:\Users\wardwalf\Desktop\projectwar server\ProjectWAR\Launcher\obj\Release\Launcher.exe
+C:\Users\wardwalf\Desktop\projectwar server\ProjectWAR\Launcher\obj\Release\Launcher.pdb
+D:\ProjectWAR-master\bin\Release\Launcher\NLog.config
+D:\ProjectWAR-master\bin\Release\Launcher\NLog.xsd
+D:\ProjectWAR-master\bin\Release\Launcher\Launcher.exe.config
+D:\ProjectWAR-master\bin\Release\Launcher\Launcher.exe
+D:\ProjectWAR-master\bin\Release\Launcher\Launcher.pdb
+D:\ProjectWAR-master\Launcher\obj\Release\Launcher.csproj.AssemblyReference.cache
+D:\ProjectWAR-master\Launcher\obj\Release\Launcher.csproj.SuggestedBindingRedirects.cache
+D:\ProjectWAR-master\Launcher\obj\Release\Launcher.exe.config
+D:\ProjectWAR-master\Launcher\obj\Release\Launcher.ApocLauncher.resources
+D:\ProjectWAR-master\Launcher\obj\Release\Launcher.Properties.Resources.resources
+D:\ProjectWAR-master\Launcher\obj\Release\Launcher.csproj.GenerateResource.cache
+D:\ProjectWAR-master\Launcher\obj\Release\Launcher.csproj.CoreCompileInputs.cache
+D:\ProjectWAR-master\Launcher\obj\Release\Launcher.csproj.Up2Date
+D:\ProjectWAR-master\Launcher\obj\Release\Launcher.exe
+D:\ProjectWAR-master\Launcher\obj\Release\Launcher.pdb
+C:\Users\111\Documents\GitHub\DK\bin\Release\Launcher\NLog.config
+C:\Users\111\Documents\GitHub\DK\bin\Release\Launcher\NLog.xsd
+C:\Users\111\Documents\GitHub\DK\bin\Release\Launcher\Launcher.exe.config
+C:\Users\111\Documents\GitHub\DK\bin\Release\Launcher\Launcher.exe
+C:\Users\111\Documents\GitHub\DK\bin\Release\Launcher\Launcher.pdb
+C:\Users\111\Documents\GitHub\DK\Launcher\obj\Release\Launcher.csproj.AssemblyReference.cache
+C:\Users\111\Documents\GitHub\DK\Launcher\obj\Release\Launcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\111\Documents\GitHub\DK\Launcher\obj\Release\Launcher.exe.config
+C:\Users\111\Documents\GitHub\DK\Launcher\obj\Release\Launcher.ApocLauncher.resources
+C:\Users\111\Documents\GitHub\DK\Launcher\obj\Release\Launcher.Properties.Resources.resources
+C:\Users\111\Documents\GitHub\DK\Launcher\obj\Release\Launcher.csproj.GenerateResource.cache
+C:\Users\111\Documents\GitHub\DK\Launcher\obj\Release\Launcher.csproj.CoreCompileInputs.cache
+C:\Users\111\Documents\GitHub\DK\Launcher\obj\Release\Launcher.csproj.Up2Date
+C:\Users\111\Documents\GitHub\DK\Launcher\obj\Release\Launcher.exe
+C:\Users\111\Documents\GitHub\DK\Launcher\obj\Release\Launcher.pdb

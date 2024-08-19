@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BegXJK9S3GI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\111\\Documents\\GitHub\\DK\\Launcher\\Launcher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\111\\.nuget\\packages\\nlog\\5.2.0\\nlog.5.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
